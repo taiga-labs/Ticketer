@@ -2,9 +2,8 @@
 
 ## Our platform is designed to stimulate:
 
-    1) doing business using the TON blockchain
-financial mechanics on the TON blockchain
-    2) to make the blockchain more understandable for people
+    1) doing business using the TON blockchain financial mechanics on the TON blockchain
+    3) to make the blockchain more understandable for people
 
 ## Taiga Ticketer helps:
 
