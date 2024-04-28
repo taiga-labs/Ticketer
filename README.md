@@ -2,14 +2,14 @@
 
 ## Our platform is designed to stimulate:
 
-    - doing business using the TON blockchain
+    1) doing business using the TON blockchain
 financial mechanics on the TON blockchain
-    - to make the blockchain more understandable for people
+    2) to make the blockchain more understandable for people
 
 ## Taiga Ticketer helps:
 
-    - create a unique collection of tickets or invitations without any special investments.
-    - buy tickets in one click with the option to pay extra for a better ticket
+    1) create a unique collection of tickets or invitations without any special investments.
+    2) buy tickets in one click with the option to pay extra for a better ticket
 
 You don't need Ton/Telegram development skills to do this. Integrate TON blockchain mechanisms into your event!
 
